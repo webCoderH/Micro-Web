@@ -1,21 +1,23 @@
-# micro-web
+# Micro
 
-> A Vue.js project
+> 一款移动端的健身Web APP
 
-## Build Setup
+## Usage
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 进入开发环境
 npm run dev
 
-# build for production with minification
+# 打包成品
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Todo
+
+- [ ] 设计稿切图
+- [ ] 页面制作
+- [ ] 交互代码编写
+- [ ] ...
