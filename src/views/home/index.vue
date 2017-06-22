@@ -10,8 +10,8 @@
 </template>
 
 <script>
-  import { mapState, mapMutations, mapActions } from 'vuex'
   import * as types from 'src/store/mutation-types'
+  import { mapState, mapActions, mapMutations } from 'vuex'
 
   export default {
     computed: {
@@ -31,6 +31,6 @@
   }
 </script>
 
-<style scoped lang="sass">
+<style scoped lang="scss">
   @import './style.scss';
 </style>
